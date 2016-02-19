@@ -21,7 +21,7 @@ category_dir: /
 baseurl:  /aspnet-mvc-ci-git-hub
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://yourdomain.com/
+url: http://zeppaman.github.io/aspnet-mvc-ci-git-hub/
 
 #### Under the Hood Stuff #####
 
